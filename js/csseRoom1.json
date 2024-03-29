@@ -1,0 +1,86 @@
+
+
+{
+    "csse": [
+      
+        {
+           "time": "1:30-1:45",
+           "projectId": "csse-1-130",
+           "title": "Teaching Tools: Canvas Meeting Scheduler",
+           "studentName": "Muhammad Cheema",
+           "studentMajor": "CSSE",
+           "projectType": " Faculty research",
+           "facultyAdvisor": "Mr. Mark Kochanski",
+           "posterLink": "./posters/csse/cheemamuhammad_4261033_117614189_Muhammad Cheema Capstone Poster For Colloquium CSSE Winter 2024.jpg",
+           "abstract": "At UWB, students and professors access courses and their information using the Canvas platform. Teaching Tools is an ongoing project designed to provide more functionality in Canvas. Currently, Canvas doesn’t have a meeting scheduler which means professors must use 3rd party schedulers to create meetings. As a result, students must rely on tools that professors use and find it difficult to locate office hours across courses.\n\n Mentor Network is a project developed by previous capstone students. This application allows students to connect with industry folks and receive mentorship. Canvas Meeting Scheduler builds off and readapts the scheduling functionality based on meeting types professors define. The goal was to embed Canvas Meeting Scheduler inside Teaching Tools to be an all-encompassing scheduling tool that both students and professors can use on Canvas.\n\n The work I primarily focused on was revamping the UI for both the student and professor view. Having never done development work in a professional environment, I picked up HTML, CSS Tailwind, React JavaScript, and JavaScript. \n\n I sifted through the Mentor Network project to understand the context of the existing code with user perspective and drafted wireframes in mind. Making notes of existing logic and structure to prototype for the scheduling tool, I created iterations of tasks. In addition, I developed a roadmap of how I could solve the problem irrespective of the technology. Allowing me to focus on creating UI changes while learning the front-end languages. Redundant ideas and code left by the Mentor Network were either encapsulated into parent-child component relationships or scrapped in the Cavas Meeting Scheduler project. \n\n Semi-weekly meetings would inform me of changes. These changes would come from an intuitiveness of the UI or the project’s files and data flow organization. Thus, making me adapt code to changing requirements and develop in an agile manner for the project life cycle. \n\n I made a simple and intuitive UI where students can see course details, drop-in meetings, and schedule appointments for all enrolled courses. Professors can create, see, and manage availability for different meeting types in all courses taught.\n\n Having a sleek UI will streamline how meetings are made and conducted. Students’ frustration of having to look in different places for office hours is resolved. Professors don’t need to rely on 3rd party applications to schedule meetings. Thus, empowering everyone with using the same tool hassle-free. "
+       },       
+       {
+          "time": "1:45-2:00",
+          "projectId": "csse-1-145",
+          "title": "Teaching Tools: Canvas Meeting Scheduler",
+          "studentName": "Trent Lucas",
+          "studentMajor": "CSSE",
+          "projectType": "Faculty research",
+          "facultyAdvisor": "Mr. Mark Kochanski",
+          "posterLink": "./posters/csse/lucastrent_3867303_117608022_Capstone-Poster-16-9.png",
+          "abstract": "Teaching Tools is a project developed by University of Washington Bothell students and faculty to provide professors and students with better tools to accomplish different functionalities while using Canvas LMS. The Canvas Meeting Scheduler is an application embedded in the Teaching Tools application, designed to redefine how students and faculty schedule meetings to collaborate, such as office hours, student group meetings, and other course-related meetings.\n\n The driving force for developing the Canvas Meeting Scheduler was to create a meeting tool that can directly support all of the use cases professors may have when teaching their courses and solve the qualms students have with struggling to find office hours times for their courses.\n\n The Mentor Network is an application developed by other capstone students to allow students and mentors to practice technical interviewing skills. Canvas Meeting Scheduler overhauls some of the Mentor Network's core functionalities to allow professors to create any type of meeting. Professors can use the tool to create a program: a structure to generate a type of meeting consisting of the location, times, dates, and a description that the professor can fully manage. Students can use the tool to select which course and program they want to schedule a meeting for to book an appointment or view the drop-in times.\n\n My work consisted of applying my previous experience building full-stack applications to get the first build encapsulating all of the main features of the Canvas Meeting Scheduler up and running. "
+      },       
+      {
+         "time": "2:00-2:15",
+         "projectId": "csse-1-200",
+         "title": "Software Engineering Studio: Team Health Report Dashboard",
+         "studentName": "Ricardo Rodriguez",
+         "studentMajor": "CSSE",
+         "projectType": "Faculty project",
+         "facultyAdvisor": "Mr. Mark Kochanski",
+         "posterLink": "./posters/csse/rodriguezricardo_LATE_4231311_117646596_Capstone Poster.png",
+         "abstract": "In this capstone research project, I developed a React web application to facilitate students’ monitoring of their team status throughout the CSS390 course. The Software Engineering Studio, as CSS390 is known, simulates a first-job or internship environment for students who have yet to experience one. This course organizes students into teams to collaboratively tackle the course workload, mirroring the dynamics of software engineering in the industry and employing prevalent tools like the Azure DevOps platform.\n\n My work alongside another student, was to create a team health status report that shows how much a team has progressed in their course load. The report features an intuitive interface that presents data in a tabular format and a Gant chart-like style visualization, providing clear insights into project timelines and milestones. Authentication is also integrated into the website so that students can associate themselves with their respective team and get the right information presented to them. \n\n The significance of this capstone research project extends beyond its functional contributions since it serves as a visual aid for students to assess their progress so they can strategize to meet impending deadlines effectively. It bridges the gap between theoretical study and practical application, ultimately enhancing the educational experience by instilling a robust understanding of the collaborative and methodological aspects of software engineering. "
+     },       
+     {
+        "time": "2:15-2:30",
+        "projectId": "csse-1-215",
+        "title": "Software Engineering Studio: Work with DevOps tools, Learn Database",
+        "studentName": "Chala Negasa",
+        "studentMajor": "CSSE",
+        "projectType": "Faculty research",
+        "facultyAdvisor": "Mr. Mark Kochanski",
+        "posterLink": "./posters/csse/Chala_page-0001.jpg",
+        "abstract": "Working on the Software Engineering Studio Project provided me with a profound hands-on learning experience, where theoretical knowledge met real-world application. As I began the project, I started not only honing my coding skills but also assuming leadership roles and engaging in diverse project tasks. This immersive journey fostered iterative learning and skill development, equipping me with invaluable insights into professional practices within software engineering.\n\n Within the context of database at which most of my work part is with relational algebra, I navigated to the projected goal of relational databases, selecting databases, and manipulating relational algebra expressions with precision. This dynamic interaction allowed me to explore database operations firsthand, providing practical insights into database management and query optimization.\n\n In the Functionality of Relational Algebra project. Backend server project build using dotnet followed by running it to fetch database, their tables, all columns’ names, and each cell’s data. The front-end, client interactive part, is built and executed using npm run and then npm start. The front-end functionality of the project enables users to seamlessly interact with relational algebra expressions. Clicking the navigation bar allows for database selection, initializing the AST Tree component. This component promptly renders the selected entity on the app page. Clicking on an entity transition to the editor page, where users can further manipulate expressions by clicking on tables, or clicking on a relational algebra operator triggers an event to add a new node to the AST Tree. The ASTTree dynamically re-renders with the updated node, ensuring smooth interaction throughout the project.\n\n Throughout the project's journey, I encountered various challenges and learning opportunities. From the initial stages of preparation to navigating failures and conducting extensive research for success, each obstacle served as a catalyst for personal and professional growth. Armed with resilience, adaptability, and a deepened understanding of software engineering principles, I emerged from this experience ready to tackle complex real-world projects with confidence and expertise. "
+    },       
+    {
+       "time": "2:30-2:45",
+       "projectId": "csse-1-230",
+       "title": "Software Engineering Intern @ Gekko Corp",
+       "studentName": "Xiao Gao",
+       "studentMajor": "CSSE",
+       "projectType": "Sponsored Internship",
+       "facultyAdvisor": "Mr. Mark Kochanski",
+       "posterLink": "./posters/csse/gaoxiao_3962267_117614125_Slide1.JPG",
+       "abstract": "During my internship at Gekko Corporation, I was tasked with improving the user interface of a health monitoring application to make it more accessible and efficient for users. The challenge we aimed to address was the limited insights provided by traditional doctor visits, which only offer a snapshot of health within a specific timeframe, leaving gaps in monitoring the patient's health over the rest of the year.\n\n To tackle this issue, we developed a solution that provides continuous health monitoring, aggregates data to create baseline metrics for trend analysis, and utilizes machine learning to correlate various health metrics. My role primarily involved redesigning and implementing the frontend of the mobile app using React Native.\n\n Despite facing challenges such as a lack of documentation and lost contact with previous team members, I took the initiative to redesign the frontend from scratch. This involved creating key screens including the home, trend, chat, and settings screens, focusing on delivering a clean and intuitive user interface.\n\n One of the highlights of my contribution was integrating artificial intelligence with the chatting feature, allowing users to receive personalized health suggestions. This added a valuable layer of functionality to the app, enhancing its usability and usefulness for users.\n\n Overall, my internship experience at Gekko Corporation was incredibly rewarding, allowing me to enhance my skills as a software engineer while making meaningful contributions to a project aimed at improving health monitoring for users. "
+   },       
+   {
+      "time": "2:45-3:00",
+      "projectId": "csse-1-245",
+      "title": "Group Member Schedule Creator",
+      "studentName": "Louie Escalera",
+      "studentMajor": "CSSE",
+      "projectType": "Faculty research",
+      "facultyAdvisor": "Mr. Mark Kochanski",
+      "posterLink": "./posters/csse/escaleralouie_4230606_117614641_TeachingToolsCapstonePresentation.jpg",
+      "abstract": "Abstract: Teaching Tools is faculty research advised by Mark Kochanski where students collaborate to develop innovative tools and functions aimed at enhancing the educational landscape. Tasked with streamlining processes such as grading, curriculum organization, and API integration, students apply their skills in an Agile environment to foster autonomy and efficiency. \n\n One of the objectives that I created for this research project was the creation of a student availability time slots to accommodate the diverse schedules of group members, in which creates a group schedule that accommodates a group meeting time for all members. By creating a student’s availability time, I believe it would enhance productivity and efficiency by optimizing a group’s meeting time. In optimizing meeting times, a better planning process can be created and better decision-making for an increase in productivity. The result in making this system was that users can create a student availability time range of times of availability. Also, multiple days can be selected to create multiple student availability time and availability times can be deleted individually. When a student goes to the group site it shows all the current groups members and all their time availability that overlap with at least one member in the groups as a new time range. With the list of group availability users can select a group meeting time based on how many members can attend, time, and day they can attend. This would show up as a group schedule on what time that members can meet.\n\n Creation of user-friendly system that gives user that matches the design of system that was already present was one of the hurdles that I had to overcome. Not only that, learning a new language, JavaScript, and learning the system called React was the one of biggest challenges for me. In working with these challenges, I have completed that work that I set for myself and expanded my knowledge in not both JavaScript and React but also how I conduct myself with Agile environment. "
+  },       
+  {
+     "time": "3:00-3:14",
+     "projectId": "csse-1-300",
+     "title": "Software Engineering of Studio Tools",
+     "studentName": "Dat Q Nguyen",
+     "studentMajor": "CSSE",
+     "projectType": "Faculty research",
+     "facultyAdvisor": "Mr. Mark Kochanski",
+     "posterLink": "./posters/csse/nguyendat_LATE_4230602_117648281_Capstone_Poster.jpg",
+     "abstract": "In this capstone project, two reports were developed to improve the efficiency and organization of student project reporting in CSS390 course through the implementation of the Badge Status and Badge Progress Timeline. Initially, during the first quarter of the capstone project, the Badge Status Report was developing using C#. However, due to changes in the project’s architecture, the subsequent quarter required a conversion of the codebase to HTML, JavaScript, CSS, and React. This shift aimed to streamline the process of data extraction and manipulation; API calls the server to send the json formats to generate reports.\n\n While taking CSS390 myself, it took significantly the amount of time to create reports. The rationale behind this endeavor was to significantly reduce the time students spend generation reports for their weekly meetings with professors, where we discuss project iterations and updates, the traditional approach to report generation was cumbersome, often leading time to use various tools that resulted in inconsistencies in report format and content across the class. By leveraging Json configuration for parsing CSV file data, our solution ensures uniformity in the format of the Badge Report and Badge Progress Timeline across all teams, thus facilitating a more organized and efficient review process.\n\n The outcome of this project was a noticeable reduction in the time and effort required by students to prepare for their weekly progress updates. By standardizing the report generation process and enabling data input through Azure DevOps, students can now easily update their progress, which the system automatically processes to generate accurate and consistent Badge Reports and Badge Progress Timelines.\n\n The significance of this project lies in its use of React technology to enhance the user interface, allowing students to intuitively select their respective quarters and teams to access the relevant reports. This not only simplifies the process of report generation but also promotes a more engaging and user-friendly experience. By addressing the challenges of report preparation and ensuring consistency across the board, this project makes a valuable contribution to the academic management of student projects in the CSS390 course, demonstrating the potential of web technologies to streamline educational processes. "
+ }
+    ]
+}
+
+

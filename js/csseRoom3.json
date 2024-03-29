@@ -1,0 +1,114 @@
+{
+    "csse": [
+        {
+            "time": "1:00-1:15",
+            "projectId": "csse-3-100",
+            "title": "ConverSwim",
+            "studentName": "Jaimi Chong",
+            "studentMajor": "CSSE",
+            "projectType": " Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/Chong.PNG",
+            "abstract": "ConverSwim, short for ‘Conversation Swimlanes’, is an interactive visual tool for capturing the highlights and lowlights of a conversation between neurodiverse conversation partners – e.g. autistic and non-autistic – and enabling reflection and improved understanding of each others’ perspectives. It is being actively developed as part of Dr. Zolyomi’s research lab, the Interaction for Education and Accessibility Lab (IDEA Lab), of which I took part in for my Winter 2024 Capstone as faculty research.\n\n The driving principle behind ConverSwim is accessibility. By translating conversations into a visual, referenceable format, we hope to remove abstractions in the way of users of all neurodivergences better understanding one another.\n\n I started with a Figma prototype featuring the latest design iterations for a set of emoticons and the main activity ‘Conversation’ page to build from. My goal was to implement a first working prototype of the application, which would also cover the other previously established milestones of interface design for icon selection and research into and evaluation of GUIs and APIs enabling ‘diagramming’ application features.\n\n To achieve this, I spent most of the quarter researching, planning, designing, and revising resulting deliverables based on feedback from weekly to biweekly check-ins with my advisor Dr. Zolyomi and students Amanda Ong (IMD) and Hazel Kaushik. I fulfilled the original milestones I set out to and produced the following final deliverables:\n\n - Research Paper on relevant GUIs and APIs, featuring requirements analysis for measuring them by.\n - Documentation and Colloquium Poster featuring system diagrams, progression logs, and discussion on challenges, decisions, resources, and prospective future milestones.\n - First Working Prototype implementation of designs from previous quarters and the current quarter, using newly learned JavaScript in React for Front-End development and hosted on GitHub pages.\n\n "
+        },        
+        {
+            "time": "1:15-1:30",
+            "projectId": "csse-3-115",
+            "title": "Software Development at Emaxcode",
+            "studentName": "Brandon Dan",
+            "studentMajor": "CSSE",
+            "projectType": " Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/danbrandon_4283444_117475095_CapstonePoster.jpg",
+            "abstract": "This project explored the intricacies of web development within the context of a non-disclosure agreement internship. The aim of the internship is to provide hands-on experience and practical knowledge in the field of web development while adhering to confidentiality agreements regarding proprietary information and intellectual property. The project involved collaborating with experienced developers and mentors to gain insights into industry best practices, tools, and technologies commonly used in web development. Throughout the internship, the focus is on mastering key concepts such as front-end and back-end development, database management, user interface design, and responsive web design. By working on real-world projects under the guidance of seasoned professionals, I gained valuable skills in coding, debugging, testing, and deployment, enhancing my proficiency in building functional and visually appealing websites and web applications. The results of the internship include a portfolio of projects showcasing my capabilities and achievements in web development. These projects demonstrate proficiency in various programming languages and frameworks, such as HTML, CSS, JavaScript, Python, Django, React, and Angular. Additionally, I have gained insights into project management methodologies, version control systems, and collaboration tools used in the software development lifecycle. Overall, the NDA internship on web development provided me with a comprehensive learning experience that prepared me thoroughly for a career in the dynamic and fast-paced field of web development, while also instilling a strong understanding of ethical considerations and professional standards in handling confidential information and intellectual property."
+        },        
+        {
+            "time": "1:30-1:45",
+            "projectId": "csse-3-130",
+            "title": "UI Design Research for iCare Mental Health Chatbot",
+            "studentName": "Pranshu Bhardwaj",
+            "studentMajor": "CSSE",
+            "projectType": " Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/bhardwajpranshu_4023636_117583914_Pranshu Bhardwaj Capstone Poster.png",
+            "abstract": "This quarter I worked on research and design for a mental health chatbot for neurodivergent people. This work was done as a part of Professor Zolyomi’s IDEA Lab in collaboration with Professor Si’s DAIS Lab, which is developing the iCare mental health chatbot. My project focused on the user experience (UX) of the iCare chatbot tailored for people with autism spectrum disorder. The project began with a literature review of academic articles about the experiences of autistic individuals with AI chatbots and UX design for autistic individuals. I did additional research by testing popular AI chatbots to identify and assess the behavior of UI elements such as chatbot avatars. Based on the research that I did, I defined UI guidelines, created UI brainstorms on elements like AI avatars and tools, and prototyped expressive animations for one of the avatars. I also conducted a pilot user study on the chatbot with Prof. Zolyomi and my teammate to gather feedback on the basic experience and thoughts on the current prototype of the iCare chatbot. We found that the current version of the iCare chatbot needs more expressive elements and better conversation skills to provide an engaging experience to the user. Lastly based on the feedback and research, I created a medium-fidelity Figma prototype for the next version of the UI for the iCare chatbot. This Figma Prototype is designed around the needs of autistic individuals and will evolve, be integrated, and be tested by future IDEA Lab students. "
+        },        
+        {
+            "time": "1:45-2:00",
+            "projectId": "csse-3-145",
+            "title": "Exploring Augmentative and Alternative Communication (AAC) Assisted Conversations",
+            "studentName": "Dinara Asyet",
+            "studentMajor": "CSSE",
+            "projectType": " Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/asyetdinara_4171008_117616910_AAC-Poster.png",
+            "abstract": "There were two phases of research data collection for Augmentative and Alternative Communication (AAC) assisted conversations: survey and interview which were deployed as Google Forms. We had one semi-structured asynchronous interview through our Discord AAC server. With the collected data, we collaborated on qualitative coding and performed a thematic analysis to extract AAC design feature considerations. The Figma prototypes were then created based on these findings.\n\n The survey served as the initial phase of our AAC-related research, providing insights into AAC users’ preferences, routines, and communication methods from both their perspective and that of individuals who regularly interact with them, such as speech therapists, mothers, and teachers. Subsequently, the asynchronous interview explored the nuances of AAC-assisted conversations from the AAC user's perspective. Through the acquired qualitative data, we gained a deeper understanding of the experiences, challenges, and needs of AAC users, informing the development of design features for Figma prototypes.\n\n In total, we received 28 valid survey responses from both AAC users and non-AAC users, and 5 valid responses from AAC users for the asynchronous interview. The results highlighted the importance of focusing on functionalities and features such as emergency support, predictive text, customization options, voice settings, security measures, context awareness, sign language integration, and enhancing conversation engagement. \n\n The significance of our research extends beyond design considerations; it serves to encourage the AAC community, researchers, and developers to address AAC users’ pain points through easily comprehensible design prototypes and qualitative data, which will soon be integrated into a research paper. "
+        },        
+        {
+            "time": "2:00-2:15",
+            "projectId": "csse-3-200",
+            "title": "MacroModules - A visual macro creator",
+            "studentName": "Franz Alarcon",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/alarconfranz_4170748_117607710_MacroModules Poster - Alarcon-1.png",
+            "abstract": "A computer macro is a set of sequential input instructions that allow for repetitive computer tasks to be automated. There are multiple software solutions available for creating macros that range from list-based graphical applications to custom scripting languages. However, list-based macro designers are inflexible and have limits on what macros can be designed. Scripting-based macros are immensely powerful, but they are inaccessible due to the need to learn a new scripting language. For my capstone project, I developed MacroModules, an open-source macro designer that aims to strike a balance between flexibility and accessibility. This is achieved by using a block-based programming model that provides flexible and complex behaviors while being fully UI accessible.\n\n The development of MacroModules was split into three separate projects: MacroLibrary, MacroModules.Model, and MacroModules.App. MacroLibrary acts as a wrapper for the Windows API. Any macro instructions that would require the Windows API instead call methods in MacroLibrary. It also abstracts the hooking system in Windows that allows system events to be monitored. MacroModules.Model handles macro execution logic. Each macro instruction, called a Module, is implemented in this project. During runtime, MacroModules.Model hooks global mouse and keyboard events to monitor the system for user input and executes macros based on input triggers. Finally, MacroModules.App is the GUI application users interact with to create macros. It was implemented using the Windows Presentation Foundation (WPF) framework and it follows the model-view-viewmodel (MVVM) pattern. This frontend allows users to design macros by dragging Modules on a canvas and connecting them with visual wires, creating a path of instruction execution, or a macro. Support for accessible technologies was integrated using the Windows UI Automation system and tested with Accessibility Insights.\n\n The application is currently incomplete due to development complications and overzealous time estimations. Key features such as branching macro execution and a variable system are not fully developed, which prevents users from designing dynamic macros. However, the application is functional and allows users to design, save, and load macro projects, where each project may contain multiple macros. It serves as a solid foundation for future work that will lead up to an eventual complete release. From this project, I gained experience in developing full applications and I learned many aspects of how Windows handles system inputs and UI accessibility. The application source is available for everyone to access, providing a learning resource for Windows application development. "
+        },        
+        {
+            "time": "2:15-2:30",
+            "projectId": "csse-3-215",
+            "title": "TeamUp: Enhancing Team Formation with Front-End Innovation",
+            "studentName": "Hany Ghobrial",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/ghobrialhany_4230295_117606778_Poster.png",
+            "abstract": "The Team Recommendation System is a cutting-edge tool designed to aid university instructors in the formation of balanced and compatible project teams through machine learning analysis of student data. Building on the foundation laid by previous students, including the development of a website aimed at automating team creation, my work involved the development of a front-end component that integrates with the machine learning model to offer instructors two distinct, optimized team options. These options are intended to improve collaborative learning experiences by considering the diversity and skill sets of the team members. \n\n The development process began with the creation of a flowchart to outline the system's work flow from user registration through team recommendation, followed by the drafting of detailed personas for professors and students. These personas were instrumental in compiling a comprehensive list of system requirements and developing a use case that demonstrates the system’s functionality. Substantial progress was made in the Figma design to include essential components such as the addition of a Homepage and Team Formation page, alongside features that allow instructors and students to effectively interact with the machine learning-generated team recommendations. A usability study conducted with potential users provided valuable insights, leading to the final design updates in Figma. The updates made using user feedback, have not only enhanced the user interface but also improved the overall user experience. \n\n The significance of this project lies in its potential to revolutionize team formation in academic settings. By leveraging machine learning to analyze comprehensive profiles created by students and professors, the Team Recommendation System promises to facilitate more effective and inclusive team collaborations. This quarter's efforts have set a solid foundation for the next phase, which involves the implementation and development of the front-end code, ensuring that the system is ready for real-world application. "
+        },        
+        {
+            "time": "2:30-2:45",
+            "projectId": "csse-3-230",
+            "title": " TeamUp: Advancing Student Collaboration through Python-Driven Backend Database Simulation",
+            "studentName": "Tran Le",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. Annuska Zolyomi",
+            "posterLink": "./posters/csse/letran_LATE_4230871_117651301_Tran - Poster-1.png",
+            "abstract": "To ensure that students have the best possible educational experiences to prepare them for the highly collaborative workforce, higher education courses incorporate hands-on teamwork. To facilitate forming diverse and high-performing student teams, this project contributes to a proof-of-concept prototype of a web-based team formation system. The project deliverable was a Python backend database system intended to simplify and speed up team administrative procedures, including user registration, profile updating, course registration, and team matching. For the purpose of ensuring that the system continues to be adaptable and user-friendly, the Python simulation approach was chosen since it strikes a balance between functionality and simplicity of implementation.\n\n The system's resilience was shown by the fact that users could register with the team formation system without difficulty, maintain their profiles, and enroll in classes once. In addition, the backend was able to successfully divide students into teams according to the courses they had enrolled for, their talents, and their interests. \n\n As a result of the project, the conclusion that can be reached is that the Python backend is capable of effectively replicating essential aspects of the database system of a web-based team formation system. This provides insight into the creation of more advanced tools for class-based student collaboration. The purpose of this prototype is to verify the efficacy of the approaches that have been selected and to establish the framework for future developments in educational technology. "
+        },        
+        {
+            "time": "2:45-3:00",
+            "projectId": "csse-3-245",
+            "title": "Data Science & Analytics Intern @Expedia Group",
+            "studentName": "Ryan Applebee",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/applebeeryan_4030250_117563721_ApplebeeCapstonePoster.jpg",
+            "abstract": "Expedia has contracts with many airlines that allows Expedia to sell the airline’s tickets in exchange for revenue. The project at expedia was to analyze Expedia's projected contract value compared to the actual value of the contract.\n\n This project was something that Expedia’s analytics team wanted to have done for a while but was unable to fit into their schedule. The point of this project was to help figure out how Expedia was doing on contract projections and see if profit for the contracts could be increased. This was done by storing data from past airline contracts along with the projections for those contracts in an Excel table. Once stored in Excel, the data was transferred into SQL using a tool called Querybook. SQL and Excel were both used for analyzing the data.\n\n There were a few difficulties in this project. In order to analyze why a contract underperformed or overperformed, an in depth study of each contract was required. After performing analysis, recommendations were made on ways the projections could be improved.The reasoning behind these recommendations were that more accurate projections would equip Expedia’s negotiators with better information, which would lead to smarter and improved negotiation attempts.\n\n This work was created in hopes that it could be continued one day as more and more contracts accumulate. As more contracts are in the system, people should be able to use the table to more easily perform analysis on how to improve airline contracts for Expedia. "
+        },        
+        {
+            "time": "3:00-3:15",
+            "projectId": "csse-3-300",
+            "title": "VAX-Translate Application",
+            "studentName": "Danae Chen",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/chendanae_LATE_4265209_117690458_capstone poster.jpg",
+            "abstract": "The capstone focused on the VAX-Translate project, a targeted initiative to streamline the translation of immunization records for new arrivals from various countries. Key activities included conducting a functional analysis of the current systems, developing an OCR (Optical Character Recognition) demonstration, and creating user-centric prototype interfaces.\n\n The project was undertaken to resolve the complexities faced by school nurses and healthcare providers when inputting diverse immunization records into existing information systems. Addressing this challenge was crucial for ensuring that all individuals comply with local immunization requirements.\n\n The results were twofold: first, an OCR demo that accurately translates and identifies gaps in vaccination records; second, a set of prototypes that embody a user-centric design, focusing on the needs and workflow of healthcare professionals. These tools collectively foster a more efficient immunization management process.\n\n Beyond its immediate utility, VAX-Translate underscores the importance of data provenance, maintaining the accuracy and integrity of health records, which is foundational for patient care. Additionally, the project’s outputs have the potential to be leveraged by community-based organizations to manage vaccine rates more effectively, especially in culturally and linguistically diverse communities, thus enhancing public health initiatives "
+        },        
+        {
+            "time": "3:15-3:30",
+            "projectId": "csse-3-315",
+            "title": "Unified Student Records Database Integrated Project",
+            "studentName": "Grace Jeong",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/jeonggrace_3958731_117560585_poster_modified_nologo.png",
+            "abstract": "For my capstone project, I undertook a comprehensive case study focused on the development of an integrated student records database. This endeavor represents the initial stages of creating a unified system, aimed at optimizing database searches within our organization. Currently, the records department manages a complex structure of five distinct databases, each categorized based on varying security levels, storage strategies, and scanning methods. The overarching goal is to seamlessly integrate these disparate data sources, ensuring alignment with specific requirements and enhancing overall operational efficiency.\n\n Moreover, the department is actively transitioning towards a new recordkeeping protocol, emphasizing the adoption of paperless processes. The crux of this initiative lies in the assimilation of student data, not only streamlining record tracking and management but also facilitating the generation of reports.\n\n Presently, the project is progressing through its meticulously planned five-step trajectory, having successfully reached the third phase. The subsequent steps are currently pending completion, awaiting the finalization of internal policies and security requirements.\n\n Throughout the course of this project, I have gained a profound understanding of the company's intricacies, established valuable contacts and networks, and initiated collaborative projects benefiting various departments. This synergistic approach contributes significantly to the efficiency and effectiveness of our organizational operations. "
+        }
+    ]
+}
